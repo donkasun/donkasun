@@ -23,5 +23,6 @@ I'm Kasun, a software engineer passionate about mobile development, JavaScript, 
 
 ### Let's Connect! 🤝
 
--   **LinkedIn:** [linkedin.com/in/don-kasun-gallage](https://www.linkedin.com/in/don-kasun-gallage)
--   **X (twitter):** [x.com/KGallage](https://x.com/KGallage)
+[![LinkedIn Badge](https://img.shields.io/badge/-don--kasun--gallage-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/don-kasun-gallage)](https://www.linkedin.com/in/don-kasun-gallage)
+[![X Badge](https://img.shields.io/badge/-@KGallage-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/KGallage)](https://x.com/KGallage)
+[![Gmail Badge](https://img.shields.io/badge/-donkasungallage@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donkasungallage@gmail.com)](mailto:donkasungallage@gmail.com)
